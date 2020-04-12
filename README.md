@@ -1,6 +1,6 @@
-# Collection of CDK Projects
+# Collection of .NET CDK Projects
 
-This repository is intended to be my collection of .NET CDK projects. My goal is to sharing for educational purposes 
+This repository is intended to be my collection of .NET CDK projects. My goal is to share for educational purposes 
 but I make no claims these projects are production quality.
 
 |Name | Description |
