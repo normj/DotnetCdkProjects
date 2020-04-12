@@ -5,4 +5,4 @@ but I make no claims these projects are production quality.
 
 |Name | Description |
 |----|---------------|
-|[LambdaNETPipeline](./LambdaNETPipeline/README.md)|For a .NET Core Lambda GitHub repository sets up CodePipelines to automate deployment.|
+|[LambdaNETPipeline](./LambdaNETPipeline)|For a .NET Core Lambda GitHub repository sets up CodePipelines to automate deployment.|
