@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- CDK Construct Library dependencies -->
+    <PackageReference Include="Amazon.CDK" Version="1.32.2" />
+    <PackageReference Include="Amazon.CDK.AWS.CodeBuild" Version="1.32.2" />
+    <PackageReference Include="Amazon.CDK.AWS.CodePipeline" Version="1.32.2" />
+    <PackageReference Include="Amazon.CDK.AWS.Codepipeline.Actions" Version="1.32.2" />
+    <PackageReference Include="Amazon.CDK.AWS.IAM" Version="1.32.2" />
+    <PackageReference Include="Amazon.CDK.AWS.S3" Version="1.32.2" />
+    <PackageReference Include="Amazon.CDK.AWS.SSM" Version="1.32.2" />
+    <PackageReference Include="AWSSDK.SimpleSystemsManagement" Version="3.3.119.16" />
+
+    <!-- jsii Roslyn analyzers (un-comment to obtain compile-time checks for missing required props
+    <PackageReference Include="Amazon.Jsii.Analyzers" Version="*" PrivateAssets="all" />
+    -->
+  </ItemGroup>
+
+</Project>
